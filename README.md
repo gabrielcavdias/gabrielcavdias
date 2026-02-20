@@ -1,7 +1,7 @@
 
 <h1> Hello Fellow < Coders/ >!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4AF626&lines=I+am+Helio+Dias;Fullstack-end+Developer;In+a+Journey+to+develop+myself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4AF626&lines=I+am+Helio+Dias;Fullstack+Developer;In+a+Journey+to+develop+myself)](https://git.io/typing-svg)
 
 ![Keyboard Typing Animation Scene](https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif)
 <!--
